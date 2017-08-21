@@ -1,0 +1,171 @@
+#header-container {
+background-color: #67abea;
+height: 50px;
+padding-left: 15px;
+padding-right: 15px;
+
+}
+
+#top-notification-content {
+    margin: 0px;
+    text-align: center;
+    color: #FFF;
+    line-height: 50px;
+    font-size: 15px;
+}
+
+   .call-to-action-button.link {
+    cursor: pointer;
+    -webkit-appearance: button;
+    padding: 5px 10px;
+    border-radius: 4px;
+    color: #FFF;
+    background-color: #2e78cc;
+    border-color: #2e78cc;
+    border: none;
+    font-size: 16px;
+    font-family: Open Sans,sans-serif,google;
+    line-height: 20px; 
+   }
+   
+   .form-group {
+	   background: #f56400; 
+   }
+.form-group1 {
+	   background: #f56400;
+}
+   
+   .form-contact  {
+	   background :#fff;
+	   margin-bottom :15px;
+   }
+   
+   
+   .row.form-group {
+	   background:none;
+	  }
+  /* #search-home .form-group, #search-home .input-wrapper {
+   border-radius: 4px;
+   background: #3339;
+   
+} */
+
+    #control-label.col-lg-3 {
+    margin: 10px auto;
+}
+
+/*.col-md-12 {
+	text-align: justify;
+}
+*/
+
+@media only screen and (max-device-width: 640px) {
+	
+	/* form-group {
+    background: #f56400;
+    width: 317px;
+    margin-bottom: 65px;
+} */
+
+	#search-home-wrapper {
+    bottom: 1em;
+    top: 10em;
+    z-index: 900;
+	}
+	
+	.col-lg-12.wrapper {
+    margin-left: 10%;
+    margin-top: 15px;
+    vertical-align: middle;
+    max-width: 1070px;
+    display: none;
+	} 
+	
+#header-container {
+	display: none;
+}
+	
+	/* <! form-group1 {
+    background: #f56400;
+    margin-top: 80px;
+	}
+*/
+	#ch-ad-cus .btn-group.bootstrap-select.input-group-btn.form-control {
+    width: 20%;
+    float: left;
+    display: block;
+    background: #f56400;
+    height: 49px;
+	}
+	
+	.col-lg-12.ammenities {
+    display: none;
+	}
+	
+	.navbar-toggle {
+    margin-top: 25px;
+}
+.zopim {
+    display: none;
+}
+	
+	.fixed #mainHeader, .fixed #mainHeader {
+    background: #2f2b2899;
+    box-shadow: 0 0 1px 0 #2f2b2899;
+}
+.page-header h1, .page-header p.h1 {
+    font-size: 16px;
+    padding-top: 20px;
+    text-align: left;	
+	
+}
+
+	#widget-9 {
+    display: none;
+}
+
+.widget-footer .widget {
+    width: 50%;
+}
+	
+	.alert-danger {
+    color: #bf1613;
+    background-color: #f2dcdc;
+    border-color: #ebccd1;
+    text-align: center;
+}
+
+.text-primary {
+    color: #67ABEA;
+    font-size: 20px;
+    margin: 10px auto;
+}
+
+.price span {
+    font-weight: 600;
+
+}
+
+#mainMenu {
+    background: #4EA5F6;
+}
+
+	.booking-search .btn {
+    height: 42px;
+    line-height: 28px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
